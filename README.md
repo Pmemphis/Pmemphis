@@ -82,7 +82,7 @@ Our focus:
 
 - GitHub: https://github.com/Pmemphis
 - Portfolio: https://pmemphis.github.io/portfolio/
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/pinidy-mwendia-6a7ab7293
 
 ---
 
