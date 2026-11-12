@@ -1,4 +1,8 @@
-
+<div align="center">
+  <img src="assets/profile-banner.png"
+       width="100%"
+       alt="Mwithalie Pinidy Mwendia | NextGen Systems">
+</div>
 <div align="center">
 
 # MWITHALIE PINIDY MWENDIA
