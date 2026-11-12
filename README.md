@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-banner.png"
+  <img src="assets/profile-banner.jpeg"
        width="100%"
        alt="Mwithalie Pinidy Mwendia | NextGen Systems">
 </div>
